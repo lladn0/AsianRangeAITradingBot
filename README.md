@@ -14,15 +14,12 @@ machine learning analysis of historical candlestick patterns. The objectives are
 - Automate identification of high-probability reversal trades.
 - Apply AI to improve decision-making in trading.
 - Deliver fast and visual alerts via Telegram.
-- 
+   
 ## Project Description
 This project builds a trading system that tries to forecast if a trade will hit Take Profit 1 (TP1) using historical 
 patterns and machine learning. It works with MetaTrader 5, learns from past sweeps of the Asian range, and sends signals 
 via Telegram bot during the London trading session.
 ---
-
-
-- 
 ## What It Does
 - Loads historical EURUSD data from MT5.
 - Finds the Asian session high and low range.
