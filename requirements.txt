@@ -1,0 +1,10 @@
+pandas
+numpy
+mplfinance
+scikit-learn
+notebook
+python-dateutil
+MetaTrader5
+telegram
+matplotlib
+dotenv
